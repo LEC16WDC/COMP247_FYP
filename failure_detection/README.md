@@ -41,7 +41,4 @@ Detector calibration uses only the 70 TRAIN GOOD Basic Dance motions.
 The 22 held-out GOOD motions and known failure motions are excluded
 from calibration.
 
-## Generative AI Disclosure
 
-ChatGPT was used as an assistive tool for code development, debugging,
-and code refinement.

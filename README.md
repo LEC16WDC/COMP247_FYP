@@ -1,9 +1,5 @@
 # Morphology-Aware Detection and Repair of Motion Retargeting Failures for Humanoid Robots
 
-This repository contains the source code and selected experimental artefacts for the COMP0247 MSc Robotics and Artificial Intelligence summer project at University College London.
-
-The project investigates automatic detection, localisation, and selective repair of motion retargeting failures produced by General Motion Retargeting (GMR) for the Unitree G1 humanoid robot.
-
 ## Project Overview
 
 Human motion is first recovered from monocular dance videos using GVHMR and then retargeted to Unitree G1 using GMR.
@@ -39,3 +35,7 @@ Region Localisation
 Selective Repairer
     ↓
 Post-Repair Verification
+
+## About Generative AI 
+
+ChatGPT was used as an assistive tool for code development, debugging, and code refinement.
