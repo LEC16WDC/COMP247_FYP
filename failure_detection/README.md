@@ -27,9 +27,6 @@ It is a **GOOD-only, region-level anomaly detector**: normal behaviour is learne
 - `extract_g1_arm_orientation.py`  
   Extracts corresponding G1 link orientations using MuJoCo forward kinematics.
 
-- `build_normal_correspondence_dataset.sh`  
-  Builds the GOOD Human-to-G1 orientation correspondence dataset.
-
 - `calibrate_multi_motion_orientation.py`  
   Creates and validates the 70/22 GOOD sequence split.
 
